@@ -1,4 +1,6 @@
-import java.util.*
+import mu.KotlinLogging
+
+private val logger = KotlinLogging.logger{}
 
 //Create an application that will accept 1 string.
 //Your application will print “Palindrome” if the string is a palindrome.
@@ -12,24 +14,26 @@ import java.util.*
 //RACECAR - Palimdrome
 //GATE - Not Palindrome
 
+fun main() {
+    var index = 0
+    var results = false
 
-fun isPalindromeString(inputStr: String): Boolean {
-    val sb = StringBuilder(inputStr)
+    logger.info { "Input a Palindrome word" }
+    val isitpalindrome = readLine().toString()
 
-    val reverseStr = sb.reverse().toString()
+    for (reversedIndex in isitpalindrome.length - 1 until 0) {
 
-    return inputStr.equals(reverseStr, ignoreCase = true)
-}
-
-fun main(args: Array<String>) {
-    val sc = Scanner(System.`in`)
-
-    println("Input a word : ")
-    val inString: String = sc.nextLine()
-
-    if (isPalindromeString(inString)) {
-        println("$inString is a Palindrome String")
-    } else {
-        println("$inString is not a Palindrome String")
+        results = isitpalindrome[reversedIndex].lowercase() == isitpalindrome[index].lowercase()
+        if (!results) {
+            break
+        }
+        index++
     }
+
+    if (!results) {
+        logger.info { "$isitpalindrome the word is a palindrome" }
+    } else
+        logger.info { "$isitpalindrome Sorry the word is not a palindrome" }
 }
+
+

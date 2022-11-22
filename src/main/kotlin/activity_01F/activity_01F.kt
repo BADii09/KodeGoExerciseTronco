@@ -25,9 +25,9 @@ fun main() {
     for (i:Char in characters){
         for (i2:Char in characters){
             if (i!=i2){
-                println("Uique letter in 1st string: $i")
+                println("Unique letter in 1st string: $i")
             }else{
-                break
+                println(" No Unique character")
             }
         }
     }

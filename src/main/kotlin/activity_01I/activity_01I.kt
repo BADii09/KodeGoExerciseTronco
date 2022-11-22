@@ -1,34 +1,32 @@
+import mu.KotlinLogging
+
 //Using Activity 01 - B, Implement a process where someone can borrow a book.
 //User: Librarian
 //Goal: Keep track book borrowed, who borrowed and how long it can be borrowed.
 //Scope :
-//Data Structures
-
+//Data Structures <List>
+private val logger = KotlinLogging.logger{}
 fun main() {
+    var books: List<String> = mutableListOf<String>("Almanac,Dictionary, Animal Kingdom, History, Geology")
+    var booksAvailable: ArrayList<String> = books as ArrayList<String>
+    var studentname: String? = null
+    var studentID: Int? = null
 
+    logger.info { "Input Student Name" }
+    studentname = readLine().toString()
 
-    var Books: Array<String> = arrayOf ("Encylopedia,Dictionary, Almanac, Thesaurus, Manga")
-    var Author: Array<String> = arrayOf("Matt Murdoc, Tony Stark, Otto Octavious, Harry Osborn, Eiichiro Oda")
-    var Color: Array<String> = arrayOf("Yellow, Orange, Black, Red, Green")
-    var Quantity: Array<Int> = arrayOf(2,5,7,1,75)
-    var BookISDN: Array<Int> = arrayOf(101, 102, 103, 104, 105)
+    logger.info { "Input Student I.D." }
+    studentID = readLine().toString().toInt()
 
-    for (Books in Books){
-        println("Books: $Books")
-    }
-    for (Author in Author){
-        println("Author: $Author")
-    }
-    for (Color in Color){
-        println("Color: $Color")
-    }
-    for (Quantity in Quantity){
-        println("Quantity: $Quantity")
-    }
-    for (BookISDN in BookISDN){
-        println("BookISDN: $BookISDN")
-    }
+    logger.info { "Select book to barrow: $books" }
 
+    logger.info { "Input the book here:" }
+    val enterbook = readLine().toString()
+
+    var borrowedBooks: List<String> = mutableListOf<String>("book1,book2")
+    logger.info { " $enterbook is borrowed by $studentname with a student I.D. $studentID" }
+
+    logger.info { " Due to limited books, $enterbook book borrowed by $studentname has 5 days of borrowing" }
 
 
 }

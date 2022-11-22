@@ -5,7 +5,59 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="6c97cd5b-00a4-4649-9d83-cfea5a189b53" name="Changes" comment="Initial Commit">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/DataStructure2.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/Functions.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/Logical Operators.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/Mathematical Equation.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/2nd_Chapter_Classes/Vehicle.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/Exercises/Exercise_OOP.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_03A/activity_03A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_03B/activity_03B.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_03C/activity_03C.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_04A/activity_04A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_04B/activity_04B.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_04C/activity_04C.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_05A/activity_05A.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_05B/activity_05B.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_05C/activity_05C.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/activity_05D/activity_05D.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions/Functions_00.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions/Functions_01.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions/Functions_02.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions/Functions_03.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions/Functions_04.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions/Functions_05.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions/Functions_06.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/kotlin/functions/Functions_07.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle.kts" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/DataStructure2.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/DataStructure3.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/DataStructure3.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/DataStructure4.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/DataStructure4.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/DataStructures.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/DataStructures.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/IfSamples.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/IfSamples.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/IfSamples2.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/IfSamples2.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/Logging.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/Logging.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/Logical Operators.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/LoopSample.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/LoopSample.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/Loops.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/Loops.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/Mathematical Equation.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/UrinaryOperation.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/UrinaryOperation.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Class_Notes/plugins.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/1st_Chapter_Strings/plugins.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Exercise01_Application/Exercise1.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Exercises/Exercise_Application.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Exercise01_Application/Main.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/Exercises/Main.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/Main.kt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activity_01F/activity_01F.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activity_01F/activity_01F.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activity_01G/activity_01G.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activity_01G/activity_01G.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activity_01I/activity_01I.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activity_01I/activity_01I.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activity_01J/activity_01J.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activity_01J/activity_01J.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activity_02A/activity_02A.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activity_02A/activity_02A.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activity_02B/activity_02B.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activity_02B/activity_02B.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activity_02C/activity/activity_02C.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activity_02C/activity_02C.kt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/kotlin/activity_02D/activity_02D.kt" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/kotlin/activity_02D/activity_02D.kt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,6 +68,15 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin File" />
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <excluded-from-favorite>
@@ -51,14 +112,60 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager" selected="Kotlin.Activity_01dKt">
+    <configuration name="Activity_01dKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Activity_01dKt" />
+      <module name="KodeGoExerciseTronco.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercise_OOPKt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Exercise_OOPKt" />
+      <module name="KodeGoExerciseTronco.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions_02Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.Functions_02Kt" />
+      <module name="KodeGoExerciseTronco.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions_04Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.Functions_04Kt" />
+      <module name="KodeGoExerciseTronco.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Functions_07Kt" type="JetRunConfigurationType" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="functions.Functions_07Kt" />
+      <module name="KodeGoExerciseTronco.main" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Kotlin.Activity_01dKt" />
+        <item itemvalue="Kotlin.Exercise_OOPKt" />
+        <item itemvalue="Kotlin.Functions_02Kt" />
+        <item itemvalue="Kotlin.Functions_04Kt" />
+        <item itemvalue="Kotlin.Functions_07Kt" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -96,7 +203,14 @@
       <option name="project" value="LOCAL" />
       <updated>1667188331708</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Initial Commit">
+      <created>1667188398183</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1667188398183</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -110,7 +224,7 @@
                   <entry key="branch">
                     <value>
                       <list>
-                        <option value="master" />
+                        <option value="HEAD" />
                       </list>
                     </value>
                   </entry>
